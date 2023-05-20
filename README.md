@@ -1,6 +1,6 @@
 # 👋 Welcome!
 
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=QingJun3&theme=default&show_icons=true&locale=en&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QingJun3&layout=compact&hide=jupyter%20notebook)
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=QingJun3&theme=default&show_icons=true&locale=en&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QingJun3&layout=compact)
 
 ![](https://activity-graph.herokuapp.com/graph?username=QingJun3&theme=github)
 
